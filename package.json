@@ -1,0 +1,25 @@
+{
+  "name": "flightprice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pingprice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "crawler": "^1.0.5",
+    "express": "^4.15.3",
+    "fs": "0.0.1-security",
+    "jquery": "^3.2.1",
+    "osmosis": "^1.1.4",
+    "phantom": "^4.0.5",
+    "phantomjs": "^2.1.7",
+    "request": "^2.81.0",
+    "scraperjs": "^1.2.0",
+    "sleep": "^5.1.1"
+  }
+}
